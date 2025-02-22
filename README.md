@@ -4,6 +4,8 @@ I am Passionate about **safeguarding** people's security, Including their financ
 I **Enjoy** working with technology, analyzing and solving complex problems.
 I am well skilled in Python Programming, HTML, Markdown, Linus, SIEM tools, SQL, Cloud Computing, Network Security, Network Architecture, Security Hardening, Cloud Networks, 
 Transmission control protocol/Internet protocol **(TCP/IP)**.
+I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. 
+
 
 
 
