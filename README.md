@@ -1,4 +1,13 @@
 ## Hi there 👋
+### MY name is AKINLOSE TURAYO LUCKY
+I am Passionate about **safeguarding** people's security, Including their financial well-being
+I **Enjoy** working with technology, analyzing and solving complex problems.
+I am well skilled in Python Programming, HTML, Markdown, Linus, SIEM tools, SQL, Cloud Computing, Network Security, Network Architecture, Security Hardening, Cloud Networks, 
+Transmission control protocol/Internet protocol **(TCP/IP)**.
+
+
+
+
 
 <!--
 **AkinloseLucky/AkinloseLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
