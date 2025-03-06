@@ -1,6 +1,6 @@
 <h1>Hi, I'm Turayo Lucky Akinlose!
 
-<h2>👨‍💻 Cisco CCNA Projects:</h2>
+<h2>👨‍💻 Welcome to my IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
